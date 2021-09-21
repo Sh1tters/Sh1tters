@@ -38,9 +38,8 @@
 
 ### Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Sh1tters&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&layout=compact" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&langs_count=8" />
 
 <br />
 <br />
@@ -56,6 +55,5 @@
 [vscode]: https://code.visualstudio.com
 [intellij]: https://www.jetbrains.com/idea/
 [eclipse]: https://www.eclipse.org
-
 [discord]: https://discord/Sh1tters#9871
 [steam]: https://steamcommunity.com/id/mcdocboss/
