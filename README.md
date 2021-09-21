@@ -35,7 +35,13 @@
 
 ### Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Sh1tters&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)" />
+
+<a href="https://github.com/Sh1tters/github-readme-stats" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sh1tters&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Sh1tters/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sh1tters&repo=convoychat" />
+</a>
 
 
 <br />
