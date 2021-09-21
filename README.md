@@ -39,7 +39,6 @@
 ### Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Sh1tters&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&langs_count=8" />
 
 <br />
 <br />
