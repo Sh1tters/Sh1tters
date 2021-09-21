@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter Frier
 
-### I'm a Student, Developer, and Gamer
+### I'm a Student & Developer
 
 - 🔭 I’m currently working on a School Project.
 - 🌱 I’m currently learning processing.
@@ -9,7 +9,7 @@
 
 
 ### Contact me:
-
+[<img align="left" alt="GitHub" width="26px" src="file:///C:/Users/Peter/Downloads/discord.svg" />][github]
 <br />
 
 ### Languages and Tools:
