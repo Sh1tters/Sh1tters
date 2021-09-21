@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate with other students.
 - ⚡ I'm a self learning developer.
 
+<br />
+<br />
 
 ### Contact me:
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
@@ -32,11 +34,12 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />][steam]
 
 <br />
+<br />
 
 ### Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Sh1tters&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=tokyonight" />
 
-<img align="center" src="[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&layout=compact)]" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1tters&layout=compact" />
 
 
 <br />
